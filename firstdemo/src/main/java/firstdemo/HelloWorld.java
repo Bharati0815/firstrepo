@@ -7,6 +7,11 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Hello World");
 		System.out.println("Hello World");
+		
 	}
-
+     public void print(){
+    	 System.out.print("Print the statements");
+    	 
+    	 
+     }
 }
